@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'grub-editenv-ruby/cli'
+
+GrubEditEnv::Cli.start
